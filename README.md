@@ -5,5 +5,5 @@ Zawarty jest też poglądowy plik csv ( ma inne seperatory ( , ) niż w skrypcie
 
 INSTRUKCJA OBSŁUGI:
 1. Uruchomić plik main
-2. Po zakończeniu działania skryptu main (trwa to długo ze względu na dużą ilość danych, można je zmniejszyć zmieniając wartość p_value na początku skryptu na np 20 lub 40 {musi być wielokrotność 20}.
+2. Po zakończeniu działania skryptu main (trwa to długo ze względu na dużą ilość danych, można je zmniejszyć zmieniając wartość '1000' w glownej petli na początku skryptu na np 20 lub 40 {musi być wielokrotność 20}.
 3. Uruchomić skrypt ImageDownloader, powinien utworzyć się nowy folder ze zdjęciami produktów. ( pobiera on informacje z pliku produkty.txt , który jest już zapełniony { został stworzony po uruchomieniu skryptu main, zatem krok 1 nie jest wymagany do sprawdzenia jego działania}
